@@ -1,0 +1,29 @@
+version=54;
+name="Liberation Shit Base Copy ";
+author="theghost_10.";
+category="EdSubcat_Military";
+requiredAddons[]=
+{
+	"A3_Ui_F",
+	"A3_Structures_F_Mil_Cargo",
+	"A3_Structures_F_Mil_Flags",
+	"A3_Structures_F_System",
+	"A3_Structures_F_Mil_Fortification",
+	"A3_Structures_F_Mil_BagBunker",
+	"A3_Structures_F_EPA_Civ_Constructions",
+	"A3_Structures_F_Civ_Camping",
+	"A3_Structures_F_Items_Vessels",
+	"ace_field_rations",
+	"A3_Structures_F_Civ_Constructions",
+	"ace_dragging",
+	"A3_Structures_F_EPA_Mil_Scrapyard",
+	"ace_cargo",
+	"A3_Structures_F_EPB_Items_Vessels",
+	"A3_Structures_F_Mil_Helipads",
+	"A3_Structures_F_Civ_InfoBoards",
+	"A3_Weapons_F_Ammoboxes",
+	"ace_rearm",
+	"rhsusf_c_mrzr",
+	"A3_Modules_F",
+	"A3_Structures_F_Argo_Commercial_Billboards"
+};
